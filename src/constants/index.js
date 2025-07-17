@@ -75,17 +75,17 @@ const abilities = [
   {
     imgPath: "/images/seo.png",
     title: "Quality Focus",
-    desc: "Delivering high-quality results while maintaining attention to every detail.",
+    desc: "I prioritize writing clean, maintainable, and scalable code that meets both technical and user requirements. Every solution is crafted with attention to performance, security, and long-term reliability.",
   },
   {
     imgPath: "/images/chat.png",
     title: "Reliable Communication",
-    desc: "Keeping you updated at every step to ensure transparency and clarity.",
+    desc: "Clear and consistent communication is at the core of every successful project. I ensure regular updates, transparent expectations, and collaborative problem-solving with clients and team members.",
   },
   {
     imgPath: "/images/time.png",
     title: "On-Time Delivery",
-    desc: "Making sure projects are completed on schedule, with quality & attention to detail.",
+    desc: "Committed to meeting deadlines without compromising on quality. I follow agile workflows and efficient project planning to ensure timely and dependable delivery of each milestone.",
   },
 ];
 
