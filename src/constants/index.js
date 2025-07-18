@@ -249,24 +249,24 @@ const testimonials = [
 
 const socialImgs = [
   {
+    name: "github",
+    url: "https://github.com/AhmadShahzad-0/",
+    imgPath: "/images/git.png",
+  },
+  {
+    name: "whatsapp",
+    url: "https://Wa.me/+923273536075/",
+    imgPath: "/images/whats.png",
+  },
+  {
     name: "insta",
-    url: "https://www.instagram.com/",
+    url: "https://www.instagram.com/ahmadshahzad._?igsh=MTJ3dDFuaHZzYW83cw%3D%3D&utm_source=qr/",
     imgPath: "/images/insta.png",
   },
   {
     name: "fb",
-    url: "https://www.facebook.com/",
+    url: "https://www.facebook.com/share/14HMufBAvCC/?mibextid=wwXIfr/",
     imgPath: "/images/fb.png",
-  },
-  {
-    name: "x",
-    url: "https://www.x.com/",
-    imgPath: "/images/x.png",
-  },
-  {
-    name: "linkedin",
-    url: "https://www.linkedin.com/",
-    imgPath: "/images/linkedin.png",
   },
 ];
 
