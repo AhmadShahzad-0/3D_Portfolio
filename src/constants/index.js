@@ -120,13 +120,13 @@ const techStackIcons = [
     rotation: [0, 0, 0],
   },
   {
-    name: "Python Developer",
+    name: "Python\nDjango Developer",
     modelPath: "/models/python-transformed.glb",
     scale: 0.8,
     rotation: [0, 0, 0],
   },
   {
-    name: "Backend Developer",
+    name: "JavaScript Developer",
     modelPath: "/models/node-transformed.glb",
     scale: 5,
     rotation: [0, -Math.PI / 2, 0],
@@ -204,45 +204,45 @@ const expLogos = [
 
 const testimonials = [
   {
-    name: "Esther Howard",
-    mentions: "@estherhoward",
+    name: "CEO of Devloop Technologies",
+    mentions: "@muhammadahmad",
     review:
-      "I can’t say enough good things about Adrian. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.",
+      "Ahmad demonstrates full ownership across the stack — building solutions that are not only functional but thoughtfully connected from end to end. His ability to design cohesive systems, manage complex logic, and maintain consistency across layers makes his work dependable and production-ready.",
     imgPath: "/images/client1.png",
   },
   {
-    name: "Wade Warren",
-    mentions: "@wadewarren",
+    name: "XScent",
+    mentions: "@hamzaali",
     review:
-      "Working with Adrian was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.",
-    imgPath: "/images/client3.png",
-  },
-  {
-    name: "Guy Hawkins",
-    mentions: "@guyhawkins",
-    review:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    imgPath: "/images/client2.png",
-  },
-  {
-    name: "Marvin McKinney",
-    mentions: "@marvinmckinney",
-    review:
-      "Adrian was a pleasure to work with. He turned our outdated website into a fresh, intuitive platform that’s both modern and easy to navigate. Fantastic work overall.",
+      "Working with Ahmad was one of the best development experiences we’ve had. He paid close attention to detail, communicated clearly, and delivered a product that matched our goals perfectly.",
     imgPath: "/images/client5.png",
   },
   {
-    name: "Floyd Miles",
-    mentions: "@floydmiles",
+    name: "Life Quality",
+    mentions: "@mhassan",
     review:
-      "Adrian’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional!",
+      "Ahmad understood our vision quickly and delivered exactly what we needed. His work was smooth, on time, and exceeded expectations.",
     imgPath: "/images/client4.png",
   },
   {
-    name: "Albert Flores",
-    mentions: "@albertflores",
+    name: "CEO of Devicon",
+    mentions: "@awais",
     review:
-      "Adrian was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend and backend dev are top-notch.",
+      "Ahmad approaches backend development with clarity and discipline. His work on project logic, data flow, and system structure reflects a strong grasp of performance, reliability, and maintainability. The solutions he builds are clean, efficient, and scale well under real-world conditions.",
+    imgPath: "/images/client3.png",
+  },
+  {
+    name: "CEO of Skyrass",
+    mentions: "@ubaidryu",
+    review:
+      "Ahmad consistently delivers clean, user-focused interfaces that feel both intuitive and refined. His ability to translate design into seamless interaction reflects a strong understanding of visual hierarchy, user experience, and layout structure. Every interface he builds feels purposeful, responsive, and thoughtfully crafted.",
+    imgPath: "/images/client2.png",
+  },
+  {
+    name: "Kylin Oracle",
+    mentions: "@hamza",
+    review:
+      "Reliable, professional, and easy to work with. Ahmad handled both the design and functionality with complete ownership. His work was smooth, on time, and exceeded expectations.",
     imgPath: "/images/client6.png",
   },
 ];
