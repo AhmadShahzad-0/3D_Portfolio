@@ -69,22 +69,22 @@ const About = () => {
         <TitleHeader title="Overview" sub="📝 Introduction" />
       </div>
 
-      <div className="grid xl:grid-cols-12 gap-10 items-center">
+      <div className="grid grid-cols-1 xl:grid-cols-12 gap-10 items-center">
         {/* IMAGE */}
         <div
-          className="xl:col-span-4 col-span-12 flex justify-center xl:order-2"
+          className="xl:col-span-4 flex justify-center xl:justify-end xl:order-2"
           ref={imageRef}
         >
           <img
             src="/images/About.png"
             alt="About illustration"
-            className="w-full max-w-md object-contain"
+            className="w-full max-w-xs sm:max-w-sm md:max-w-md object-contain"
           />
         </div>
 
         {/* TEXT */}
         <div
-          className="xl:col-span-8 col-span-12 space-y-8 xl:order-1"
+          className="xl:col-span-8 space-y-8 xl:order-1 text-left"
           ref={textRef}
         >
           <p className="text-lg text-white-50 leading-7">
