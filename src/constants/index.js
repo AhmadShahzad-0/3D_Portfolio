@@ -203,13 +203,13 @@ const expLogos = [
 ];
 
 const testimonials = [
-  {
-    name: "CEO of Devloop Technologies",
-    mentions: "@muhammadahmad",
-    review:
-      "Ahmad demonstrates full ownership across the stack — building solutions that are not only functional but thoughtfully connected from end to end. His ability to design cohesive systems, manage complex logic, and maintain consistency across layers makes his work dependable and production-ready.",
-    imgPath: "/images/client1.png",
-  },
+  // {
+  //   name: "CEO of Devloop Technologies",
+  //   mentions: "@muhammadahmad",
+  //   review:
+  //     "Ahmad demonstrates full ownership across the stack — building solutions that are not only functional but thoughtfully connected from end to end. His ability to design cohesive systems, manage complex logic, and maintain consistency across layers makes his work dependable and production-ready.",
+  //   imgPath: "/images/client1.png",
+  // },
   {
     name: "XScent",
     mentions: "@hamzaali",
@@ -217,20 +217,20 @@ const testimonials = [
       "Working with Ahmad was one of the best development experiences we’ve had. He paid close attention to detail, communicated clearly, and delivered a product that matched our goals perfectly.",
     imgPath: "/images/client5.png",
   },
-  {
-    name: "Life Quality",
-    mentions: "@mhassan",
-    review:
-      "Ahmad understood our vision quickly and delivered exactly what we needed. His work was smooth, on time, and exceeded expectations.",
-    imgPath: "/images/client4.png",
-  },
-  {
-    name: "CEO of Devicon",
-    mentions: "@awais",
-    review:
-      "Ahmad approaches backend development with clarity and discipline. His work on project logic, data flow, and system structure reflects a strong grasp of performance, reliability, and maintainability. The solutions he builds are clean, efficient, and scale well under real-world conditions.",
-    imgPath: "/images/client3.png",
-  },
+  // {
+  //   name: "Life Quality",
+  //   mentions: "@mhassan",
+  //   review:
+  //     "Ahmad understood our vision quickly and delivered exactly what we needed. His work was smooth, on time, and exceeded expectations.",
+  //   imgPath: "/images/client4.png",
+  // },
+  // {
+  //   name: "CEO of Devicon",
+  //   mentions: "@awais",
+  //   review:
+  //     "Ahmad approaches backend development with clarity and discipline. His work on project logic, data flow, and system structure reflects a strong grasp of performance, reliability, and maintainability. The solutions he builds are clean, efficient, and scale well under real-world conditions.",
+  //   imgPath: "/images/client3.png",
+  // },
   {
     name: "CEO of Skyrass",
     mentions: "@ubaidryu",

@@ -8,12 +8,14 @@ import TechStack from './sections/TechStack.jsx'
 import Testimonials from './sections/Testimonials.jsx'
 import Contact from './sections/Contact.jsx'
 import Footer from './sections/Footer.jsx'
+import About from './sections/About.jsx'
 
 const App = () => {
   return (
     <>  
         <NavBar />
         <Hero />
+        <About />
         <ShowcaseSection />
         <LogoSection />
         <FeatureCards />
